@@ -203,10 +203,10 @@ QT_TRANSLATE_NOOP("vizeh-core", ""
 QT_TRANSLATE_NOOP("vizeh-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("vizeh-core", "(65010 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("vizeh-core", "(28157 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("vizeh-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("vizeh-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("vizeh-core", "(must be 65010 for mainnet)"),
+QT_TRANSLATE_NOOP("vizeh-core", "(must be 28157 for mainnet)"),
 QT_TRANSLATE_NOOP("vizeh-core", "<category> can be:\n"),
 QT_TRANSLATE_NOOP("vizeh-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("vizeh-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),
